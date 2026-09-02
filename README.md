@@ -1,4 +1,7 @@
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=officaldhanush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gummala Naga Dhanush ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officaldhanush90@gmail.com)
 <!-- Snake Game Repo View -->
@@ -14,8 +17,7 @@
 ![](https://streak-stats.demolab.com/?user=officaldhanush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=officaldhanush&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=officaldhanush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
