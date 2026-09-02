@@ -1,7 +1,3 @@
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=officaldhanush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gummala Naga Dhanush ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officaldhanush90@gmail.com)
 <!-- Snake Game Repo View -->
@@ -9,6 +5,9 @@
 <div align="center">
 <img scr="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=officaldhanush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
